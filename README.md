@@ -37,7 +37,7 @@ All five visualizations update simultaneously:
 - Mean BMI by age group and sex (bar chart)
 - Obesity prevalence heatmap
 - Age vs BMI scatter plot
-
+![Dashboard Screenshot](dashboard_screenshot.png)
 ### Running the Dashboard Locally
 
 ```bash
